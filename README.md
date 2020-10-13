@@ -2,6 +2,10 @@
 
 This file is work in progress.
 
+![Top Languages for Shubz](https://github-readme-stats.vercel.app/api/top-langs/?username=shubzkothekar&show_icons=true&theme=nord&hide=html,jupyter+notebook&langs_count=10&layout=compact)
+
+ 
+
 <!--
 **shubzkothekar/shubzkothekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
